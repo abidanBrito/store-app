@@ -1,0 +1,17 @@
+E:\dev\vs\repos\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+E:\dev\vs\repos\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+E:\dev\vs\repos\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+E:\dev\vs\repos\StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+E:\dev\vs\repos\StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.AboutForm.resources
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.MainForm.resources
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.ExportForm.resources
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.AddProductForm.resources
+E:\dev\vs\repos\StoreApp\StoreApp\obj\Debug\StoreApp.EditProductForm.resources

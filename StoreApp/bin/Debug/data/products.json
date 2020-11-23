@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "GeForce GTX 1050 Ti 4 Gb",
+            "manufacturer": "Nvidia",
+            "description": "Add a brief description here.",
+            "price": 159.99,
+            "quantity": 5
+        },
+        {
+            "id": 1,
+            "name": "Intel Core i3-9100F 4 Core Up to 4.2 GHz",
+            "manufacturer": "Intel",
+            "description": "Add a brief description here.",
+            "price": 110.98,
+            "quantity": 5
+        },
+        {
+            "id": 2,
+            "name": "DHT11 Temperature-Humidity Sensor",
+            "manufacturer": "Adafruit",
+            "description": "Add a brief description here.",
+            "price": 4.99,
+            "quantity": 5
+        },
+        {
+            "id": 3,
+            "name": "Ryzen 7",
+            "manufacturer": "AMD",
+            "description": "Add a brief description here.",
+            "price": 120,
+            "quantity": 30
+        },
+        {
+            "id": 4,
+            "name": "G MX518 Gaming Mouse",
+            "manufacturer": "Logitech",
+            "description": "Add a brief description here.",
+            "price": 14.49,
+            "quantity": 2
+        },
+        {
+            "id": 5,
+            "name": "SDD 860 EVO 2 Tb",
+            "manufacturer": "Samsung",
+            "description": "Add a brief description here.",
+            "price": 324.95,
+            "quantity": 17
+        },
+        {
+            "id": 6,
+            "name": "RAM - 32 Gb (2 x 8 Gb) DDR4",
+            "manufacturer": "G. Skill",
+            "description": "Add a brief description here.",
+            "price": 112.55,
+            "quantity": 1
+        }
+    ]
+}
