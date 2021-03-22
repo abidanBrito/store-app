@@ -2,3 +2,7 @@
 
 # Visual Studio cache/options directory
 .vs/
+
+# Ignore the contents of the packages directory, but do keep the config so they can be restored after cloning
+packages/**/*
+!packages/repositories.config
